@@ -1,7 +1,7 @@
 {
   "name": "@ojesusmp/marketing-council",
-  "version": "1.1.0",
-  "description": "12-seat marketing/sales/copy council with Hormozi coordinator and Skeptic post-verdict challenger. Claude Code skill for selling digital products, AI agents, web pages, courses, and indie services.",
+  "version": "2.0.0",
+  "description": "Adversarial 3-round marketing review with discipline foreman. Pitcher / Skeptic / Hormozi / Foreman. Claude Code skill for asset-level critique of pages, copy, offers, hooks, ads, and emails. Output under 1,700 tokens.",
   "bin": {
     "marketing-council": "install.js"
   },
@@ -17,9 +17,9 @@
     "marketing",
     "sales",
     "copywriting",
-    "seo",
     "hormozi",
-    "council-of-12",
+    "adversarial-loop",
+    "asset-critique",
     "skill",
     "anthropic"
   ],
