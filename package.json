@@ -1,0 +1,39 @@
+{
+  "name": "@ojesusmp/marketing-council",
+  "version": "1.1.0",
+  "description": "12-seat marketing/sales/copy council with Hormozi coordinator and Skeptic post-verdict challenger. Claude Code skill for selling digital products, AI agents, web pages, courses, and indie services.",
+  "bin": {
+    "marketing-council": "install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE",
+    "install.js"
+  ],
+  "keywords": [
+    "claude-code",
+    "claude-skill",
+    "marketing",
+    "sales",
+    "copywriting",
+    "seo",
+    "hormozi",
+    "council-of-12",
+    "skill",
+    "anthropic"
+  ],
+  "author": "ojesusmp",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojesusmp/Marketing-Council.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ojesusmp/Marketing-Council/issues"
+  },
+  "homepage": "https://github.com/ojesusmp/Marketing-Council#readme",
+  "engines": {
+    "node": ">=14"
+  }
+}
