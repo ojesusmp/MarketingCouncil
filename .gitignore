@@ -1,0 +1,31 @@
+# Runtime state
+.omc/
+.omc-state/
+
+# Node tooling
+node_modules/
+package-lock.json.tmp
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Secrets — NEVER commit
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+
+# Backup artifacts
+*.original.md
