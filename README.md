@@ -58,8 +58,8 @@ Asset-level critique only — review of something that already exists.
 - Multi-decade brand-building, Coca-Cola-tier mass-distribution, SpaceX-tier founder-mission.
 - Regulated industries (medical / financial / legal advice — no FTC / compliance check).
 - Harmful or fraudulent products.
-- Pure ideation with no asset in hand → use `forge-council`.
-- Pure validation of a multi-option decision → use `council-of-12`.
+- Pure ideation with no asset in hand → out of scope; use any creative-ideation tool you prefer.
+- Pure validation of a multi-option decision → out of scope; use any multi-lens decision tool you prefer.
 
 ## Architecture changelog
 
@@ -70,7 +70,7 @@ Asset-level critique only — review of something that already exists.
 - **PROMOTED** Skeptic from post-verdict challenger → peer adversary across all 3 rounds.
 - **ADDED** substrate intake (3 questions), cheapest disconfirming test ≤72h ≤$50 per Skeptic round, SHIP / EDIT / KILL triple verdict, asset-existence check, generic-phrase blocklist, hard token budget with failure thresholds, Foreman discipline pass (4 checks).
 
-Validation evidence: `v3-test-results.md` (TruePoint pre-launch landing page). v2 vs v2.0.0 measurement: tokens dropped from ~2,500 to ~1,600, flaws caught rose from 3 to 8, hallucinated-asset count dropped from ≥1 to 0.
+Validation evidence (internal): v2 vs v2.0.0 measurement showed tokens dropping from ~2,500 to ~1,600, flaws caught rising from 3 to 8, and hallucinated-asset count dropping from ≥1 to 0.
 
 ### v1.1.0 (deprecated, kept as rollback anchor)
 
@@ -85,17 +85,9 @@ git checkout v1.1.0 -- SKILL.md
 
 The skill enforces: no false scarcity, no fake testimonials, no manufactured urgency, no bait-and-switch. Bold claims allowed only when proof-backed. Hormozi cuts violations from the edit list before Foreman pass.
 
-## Related skills
-
-- `forge-council` — 12-seat creative ideation with Musk coordinator (pure idea generation, no asset required)
-- `council-of-12` — universal 12-lens analysis with Solomon coordinator (multi-option validation)
-- `marketing-strategy` *(planned)* — pre-asset strategy: offer selection, channel entry, 30-day plan
-- [silex](https://github.com/ojesusmp/silex) — per-project timeline journal that survives reboots
-
 ## Documentation
 
 - [SKILL.md](./SKILL.md) — canonical reference (4 roles, execution flow, output template, token budget, success criteria)
-- [v3-test-results.md](./v3-test-results.md) — empirical validation: TruePoint Agents pre-launch page, v2 vs v3 vs v3.1 measurement table
 
 ## License
 

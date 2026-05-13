@@ -31,8 +31,8 @@ Validation evidence: `v3-test-results.md` in this repo. v2 vs v3 vs v3.1 measure
 ## When NOT to use
 
 - Multi-decade brand-building, Coca-Cola-tier mass-distribution, SpaceX-tier founder-mission, regulated industries (medical / financial / legal advice), harmful or fraudulent products.
-- Pure ideation with no asset in hand → use **forge-council**.
-- Pure validation of a multi-option decision → use **council-of-12**.
+- Pure ideation with no asset in hand → out of scope.
+- Pure validation of a multi-option decision → out of scope.
 - Pre-asset strategy (which offer first, which channel to enter, 30-day plan before any page exists) → out of scope here. Asset-level critique only. A separate `marketing-strategy` skill is the right home for greenfield planning.
 
 If asset is missing, ask one question and stop: "Paste the asset (URL, copy, offer terms) you want reviewed."
